@@ -1,0 +1,20 @@
+405
+kursi, meja, mic, tv, papan tulis
+40 orang
+0
+
+407
+kursi, meja, papan tulis, mic
+50 orang
+1
+
+408
+sofa 1, meja 50, kursi 50, papan tulis
+45 orang
+1
+
+409
+kursi, meja, tv, papan tulis, mimbar, lcd
+10000 orang
+1
+
